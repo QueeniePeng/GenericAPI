@@ -4,9 +4,9 @@ This app uses generic network request to send emails via sendgrid.
 
 
 ## How to run
-1. Go to `SendGrid` file and paste your api key from [SendGrid](https://sendgrid.com) - (Otherwise if will show `responseFailed(statusCode: 401)` in the console.
+1. Go to `SendGrid` file and paste the api key from [SendGrid](https://sendgrid.com) - (Otherwise if will show `responseFailed(statusCode: 401)` in the console.
 )
-2. Go to `ViewController` and change `recipients` to your own email address
+2. Go to `ViewController` and change `recipients` to your email address.
 
 
 ## Tests
