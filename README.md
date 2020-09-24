@@ -15,3 +15,5 @@ This app uses generic network request to send emails via sendgrid.
 
 ## Reference
 [Protocol Based Generic Networking using JSONDecoder and Decodable in Swift 4](https://medium.com/@jamesrochabrun/protocol-based-generic-networking-using-jsondecoder-and-decodable-in-swift-4-fc9e889e8081)
+
+https://queenieblog.herokuapp.com/platforms/1/languages/1/questions/8
